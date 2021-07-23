@@ -9,7 +9,7 @@ A go service for writing ping report to influxdb
 
 ## How to build
 
-- Install all requirements like `go get ..`
+- Install all requirements like `go get .`
 - Copy `sample.env` to `.env` and update it accordingly
 - Build like `go build main.go`
 - Run like `./main`
